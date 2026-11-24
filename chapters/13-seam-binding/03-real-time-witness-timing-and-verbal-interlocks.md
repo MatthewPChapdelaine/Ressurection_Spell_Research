@@ -1,0 +1,3 @@
+# 13.3 Real-Time Witness Timing and Verbal Interlocks
+
+To prevent ghost gap escape, operational protocols require the designated witness standing outside the outer kekkai perimeter to perform real-time vocal timing during Phase P7. The witness counts the four-second window aloud with clear, rhythmic cadence the moment dermal synthesis finishes. Spoken timing provides an external auditory pacesetter for the primary caster, who must deliver the operational command *"Close"* without hesitation. If the primary caster falters during the count, the witness immediately activates a backup binder trigger to force rapid seam sealing before pattern decoupling can take place.

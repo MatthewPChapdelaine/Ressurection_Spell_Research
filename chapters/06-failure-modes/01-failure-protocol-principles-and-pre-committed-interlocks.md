@@ -1,0 +1,3 @@
+# 6.1 Failure Protocol Principles and Pre-Committed Interlocks
+
+In the execution of a ninth-rank **Anastasis working**, diagnostic vigilance is the primary barrier against catastrophic collapse. Because the spell operates across abstract Platonic coordinates and artificial persistence fields, errors do not manifest as minor physical defects. Instead, structural failures present as distinct metaphysical, visual, and thermal signatures within the spherical kekkai boundary. Managing these anomalies requires strict reliance on **pre-committed interlocks**. A practitioner cannot afford to improvise corrective actions during live operations; every intervention must be executed automatically upon reading a recognized diagnostic signature.

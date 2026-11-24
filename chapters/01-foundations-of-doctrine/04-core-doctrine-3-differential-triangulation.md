@@ -1,0 +1,3 @@
+# 1.4 Core Doctrine 3: Differential Triangulation
+
+The third claim (D3) governs how a Form is specified during retrieval. Abstract Forms cannot be summoned using standard linguistic names, as physical language carries high collision rates and imprecise definitions. Instead, the practitioner must locate the target Form through differential triangulation. By defining a set of seven precise, non-descriptor relations—such as what the individual was constantly mistaken for, their formative concept-parents, and the specific shape of their death—the practitioner isolates the target coordinate within Platonic space. This process resembles pinpointing an unseen point in a dark room by feeling the exact angles of converging walls.

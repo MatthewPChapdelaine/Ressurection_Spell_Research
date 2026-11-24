@@ -1,0 +1,5 @@
+# 6.4 Failure Mode F3: Overdraw Bleed
+
+The third failure mode, **F3 (Overdraw Bleed)**, indicates severe thermal and energetic overload within Subsystem BB-3 at the central singularity knot. When the knot lacks sufficient spatial volume or cooling capacity to absorb the incoming pattern's pull momentum, it begins consuming its own local address coordinates to maintain stability. The visual signature is a sudden, intense flare of white-hot illumination at the geometric center of the sphere, accompanied by a rapid thinning and blurring of the inscribed address lattice on the inner wall. Metaphysically, the ambient temperature inside the mid kekkai wall spikes dramatically, threatening the alignment of the ten inward printing heads.
+
+The mandatory interlock for F3 requires expanding the primary radius **R** by fifteen percent while simultaneously lowering the address density parameter (δ). This adjustment widens the focal volume and relieves thermodynamic pressure on the central sink. Prompt execution of this interlock prevents the singularity knot from eroding the core Form invariants prior to tissue synthesis.

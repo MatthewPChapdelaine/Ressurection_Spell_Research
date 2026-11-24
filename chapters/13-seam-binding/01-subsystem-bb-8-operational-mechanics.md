@@ -1,0 +1,3 @@
+# 13.1 Subsystem BB-8 Operational Mechanics
+
+The transition from a temporary printed soma to a permanently instantiated entity is governed strictly by **Subsystem Contract BB-8**. Once the ten inward printing heads mounted on the mid kekkai wall complete the synthesis of internal organ systems, neural networks, and dermal layers during Phase P6, the physical body remains structurally incomplete. A single anatomical seam along the central primary axis is deliberately left open to allow the held abstract Form at the singularity knot to lock into the organic matrix. The binder subsystem acts as the final mechanical bridge, sewing the held pattern securely into the physical vessel before any containment boundaries are lowered.

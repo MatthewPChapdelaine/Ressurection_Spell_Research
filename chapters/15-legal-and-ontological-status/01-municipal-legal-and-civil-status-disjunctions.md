@@ -1,0 +1,3 @@
+# 15.1 Municipal, Legal, and Civil Status Disjunctions
+
+The completion of the **Anastasis working** yields a biologically living human being with a verified Platonic pattern, yet municipal and civil institutions remain completely blind to this metaphysical reality. Civil governance frameworks treat biological death as a final, non-reversible status change. Once a death certificate is registered, the individual's legal persona is permanently terminated, severing all civic rights, estate holdings, and social obligations. Consequently, an instantiated entity faces a profound disjunction: they possess complete ontological reality while remaining entirely nonexistent within the legal domain.

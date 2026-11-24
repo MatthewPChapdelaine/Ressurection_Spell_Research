@@ -1,0 +1,5 @@
+# 5.3 Address Bleed and Metaphysical Exposure
+
+The third permanent liability incurred during execution is address bleed. To locate and isolate the target Form in Platonic space without using language descriptors, Subsystem BB-1 constructs a seven-vertex differential lattice linked to the caster's own relational coordinates. The seventh differential—the self-differential—requires the caster to personally bridge the gap between abstract space and physical manifestation. As a direct consequence of establishing this bridge, a permanent copy of the caster's personal Platonic address is etched into the public lattice of the metaphysical background.
+
+This exposure alters the caster's metaphysical signature permanently. While an exposed address makes the caster significantly easier to locate and retrieve in future Anastasis workings, it simultaneously lowers their natural resistance to external gravitational pulls and spatial tracking. The caster's coordinate profile becomes permanently legible to ambient lattice sweeps, increasing vulnerability to unprompted link drops or external metaphysical interference long after the primary working has concluded.

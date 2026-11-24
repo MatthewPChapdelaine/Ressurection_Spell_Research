@@ -1,0 +1,5 @@
+# 6.3 Failure Mode F2: Shear Collapse
+
+The second failure mode, **F2 (Shear Collapse)**, is caused by improper gravitational tuning in Subsystem BB-2 during Phase P4. If the pull acceleration curve steps abruptly or exceeds the elastic limit of the inner wall, the Form experiences differential drag. The diagnostic signature within the containment sphere manifests as a visible spatial smear stretching along the central pull axis. Rather than settling cleanly as a concentrated pattern at the singularity knot, the Form arrives elongated, surrounded by persistent metric ripples and prismatic optical refractions along the interior lattice lines.
+
+To interlock an F2 event during Phase P4, the caster must immediately reduce the acceleration ramp slope and extend the temporal slack window, adding mandatory twenty-second buffers to stabilize the gravitational vector. If shear collapse persists into Phase P6 after soma printing has commenced, the interlock threshold is breached; the printed tissue becomes irrecoverably torn along internal anatomical axes, requiring complete sequence abort via controlled dissipation.

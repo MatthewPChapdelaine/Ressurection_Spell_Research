@@ -1,0 +1,5 @@
+# 6.5 Failure Mode F4: Self-Portrait Body
+
+The fourth failure mode, **F4 (Self-Portrait Body)**, represents a boundary reconciliation failure between Subsystem BB-6 (RSI Cache Reader) and Subsystem BB-7 (Soma Printer). This anomaly occurs when subjective memory data overwrites objective Platonic invariants during Phase P6. The diagnostic signature presents physically during dermal assembly: the printed soma displays an idealized, unblemished appearance—often resembling the subject at a significantly younger age—paired with glaring structural flaws in complex physical areas such as hand geometry or vocal cord structure.
+
+The pre-committed interlock for F4 involves adjusting the printer weighting parameters. The caster forces the mid wall printing heads to prioritize objective Form invariants over subjective RSI cache data, stripping away superficial aesthetic distortions and re-printing the dermal layer. This ensures that internal anatomical structures remain fully viable and properly aligned with the physical world.

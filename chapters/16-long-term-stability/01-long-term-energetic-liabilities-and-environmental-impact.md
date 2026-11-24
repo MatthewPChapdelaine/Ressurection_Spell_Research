@@ -1,0 +1,3 @@
+# 16.1 Long-Term Energetic Liabilities and Environmental Impact
+
+The completion of the **Anastasis working** leaves a lingering energetic imprint on the physical location where the spherical kekkai was established. Because artificial persistence was maintained across three non-isotropic boundaries for over eleven minutes, the localized spatial metric retains a residual curvature. This localized warp continues to draw minor amounts of ambient energy long after the primary persistence debt has been settled by the caster. Managing this energetic liability requires practitioners to establish environmental containment monitoring to prevent ambient field degradation or unexpected resonance spikes in the surrounding area.

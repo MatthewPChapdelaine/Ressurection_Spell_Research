@@ -1,0 +1,3 @@
+# 16.2 Metric Decay Monitoring and Field Recalibration
+
+Over extended periods, the localized metric distortion caused by the singularity knot begins to undergo natural decay. If left unmonitored, metric decay can manifest as localized spatial shear or micro-fractures in the ambient metaphysical background. Operational protocols mandate periodic inspection of the working site using resonance sweep tools. If metric decay signatures are detected, practitioners must execute localized harmonic flattening rituals to smooth the residual curvature and restore full topological stability to the physical environment.

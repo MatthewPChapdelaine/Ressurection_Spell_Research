@@ -1,0 +1,3 @@
+# 13.2 The Critical Four-Second Window and Ghost Gap Prevention
+
+The binding sequence operates under an unforgiving temporal limit: the final dermal seam must reach complete closure within a mandatory **four-second window** at Phase P7. Because abstract patterns lack natural physical persistence outside Platonic space, delaying seam execution creates an immediate structural vulnerability known as **Ghost Gap Failure (F7)**. If the binder subsystem stalls or hesitates beyond four seconds, the held pattern slips rapidly out of the unsealed dermal gap, returning to abstract space while leaving behind an unintegrated, non-viable biological shell that expires shortly after release.

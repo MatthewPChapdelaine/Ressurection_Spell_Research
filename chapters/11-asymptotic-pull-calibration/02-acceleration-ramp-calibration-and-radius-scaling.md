@@ -1,0 +1,5 @@
+# 11.2 Acceleration Ramp Calibration and Radius Scaling
+
+Executing Phase P4 requires precise temporal calibration of the acceleration ramp. While standard ritual phases operate under rigid duration floors, the gravitational ramp contains mandatory temporal slack to accommodate larger silhouette spans. For a standard adult radius **R** of 1.9 meters, the baseline ramp duration is set to exactly ninety seconds. Scaling the containment volume outward requires extending the ramp duration by twenty seconds for every additional 0.3 meters of radius clearance.
+
+This time expansion prevents sudden force steps that would otherwise tear complex anatomical structures during transport. Practitioners must monitor the ramp trajectory continuously using real-time spatial feedback. If the acceleration slope exceeds safety thresholds, the caster must immediately invoke temporal slack extensions to flatten the velocity profile, guaranteeing smooth, continuous arrival at the singularity focus during Phase P5.

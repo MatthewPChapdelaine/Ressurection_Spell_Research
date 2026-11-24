@@ -1,0 +1,3 @@
+# 1.1 Introduction to the Anastasis Framework
+
+The Anastasis working is a ninth-rank ritual system designed for ontological retrieval and form-instantiation. Rather than attempting a traditional resurrection—which incorrectly treats death as a destruction of essential information—this framework operates on the premise that the underlying blueprint of an individual remains completely intact within Platonic space. The goal of this chapter is to outline the theoretical foundations of this system, establishing both the underlying philosophical doctrine and the rigorous engineering methodology known as Black Box Discipline.
